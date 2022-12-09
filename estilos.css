@@ -1,0 +1,11 @@
+.header{
+    background: purple;
+    height: 20px;
+}
+.contenido{
+    margin-top: 20px;
+}
+.footer{
+    background: gray;
+    height: 20px;
+}
