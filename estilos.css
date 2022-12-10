@@ -1,6 +1,7 @@
 .header{
     background: purple;
-    height: 20px;
+    display: flex;
+    padding: 5px;
 }
 .contenido{
     margin-top: 20px;
@@ -8,4 +9,13 @@
 .footer{
     background: gray;
     height: 20px;
+}
+.titulo{
+    margin-left: 10px;
+    color: white;
+    font-size: large;
+} 
+.logo{
+    width: 40px;
+    border-radius: 5px;
 }
